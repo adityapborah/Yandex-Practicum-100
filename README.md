@@ -2,7 +2,7 @@
 This repository is for the projects that I completed during the 9-month intensive Data Analysis training from Practicum100(in association with Yandex and Masterschool).
 
 ### Programming Language:
-Python with various libraries including pandas and numpy for data analysis, and Matplotlib, Pyplot, Plotly and Searborn for data visualisation
+Python with various libraries including pandas, scipy and numpy for data analysis, and Matplotlib, Pyplot, Plotly and Searborn for data visualisation
 
 ### Platform:
 Jupyter Notebook
